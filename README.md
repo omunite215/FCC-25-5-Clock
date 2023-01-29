@@ -2,7 +2,7 @@ Welcome to My Repository!!
 
 This is a 25 5 clock Project on React!!
 
-The project is hosted on Netlify : https://fccmarkdownpreviewerbyom.netlify.app/
+The project is hosted on Netlify : https://255clockbyom.netlify.app/
 
 I am not removing react's readme files because, it will help you using react as well. Thanks!!
 
