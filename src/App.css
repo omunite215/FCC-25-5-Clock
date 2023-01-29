@@ -1,0 +1,57 @@
+.Clock{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  
+  margin: auto;
+  background-color: #CCCCFF;
+
+}
+.labels{
+  display: flex;
+  border: 2px solid #CCCCFF;
+  border-radius: 15px;
+  width: 50%;
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: #a7a7f3;
+}
+.value-portion {
+  display: flex;
+}
+#session {
+  margin-left: auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#break {
+text-align: center;
+display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#value-container{
+  position: relative;
+  top: -15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#main {
+  border-radius: 35px;
+  border: 5px solid #CCCCFF;
+  background-color: #a7a7f3;
+  padding: 15px;
+  width: 25%;
+  text-align: center;
+  margin-bottom: 15px;
+}
