@@ -4,6 +4,8 @@
   "private": true,
   "type": "module",
   "description": "freeCodeCamp 25 + 5 Clock (Pomodoro timer) — modernized with Bun, Vite, React 19 and TypeScript.",
+  "license": "MIT",
+  "author": "Om Patel",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
